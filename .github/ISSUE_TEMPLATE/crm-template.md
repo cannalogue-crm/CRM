@@ -1,7 +1,7 @@
 ---
 name: CRM Template
-about: Must fill template
-title: ''
+about: Fill out the template fields.
+title: "[Patient ID] - Nature of the Call"
 labels: ''
 assignees: ''
 
@@ -12,10 +12,6 @@ First Name:
 Last Name:
 Email Address:
 Phone Number:
-Street Address:
-City:
-Province:
-Postal Code:
-Time & Date:
+Nature of the call:
 
-Details:
+Notes:
