@@ -1,9 +1,9 @@
 ---
 name: CRM Template
-about: Fill out the template fields.
+about: To capture customer information for Verification and Resolution purposes
 title: "[Patient ID] - Nature of the Call"
 labels: ''
-assignees: ''
+assignees: adamjasar
 
 ---
 
@@ -12,6 +12,9 @@ First Name:
 Last Name:
 Email Address:
 Phone Number:
-Nature of the call:
+Full mailing address: 
 
-Notes:
+Order #: 
+Status:
+
+Private Notes:
