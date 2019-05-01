@@ -1,7 +1,7 @@
 ---
 name: CRM Template
 about: To capture customer information for relationship management.
-title: "[Patient ID] - Nature of the Call"
+title: Nature of the Call - [Patient ID] - [First name] [Last name]
 labels: ''
 assignees: adamjasar
 
