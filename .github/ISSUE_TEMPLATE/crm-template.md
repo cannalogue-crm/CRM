@@ -11,7 +11,7 @@ Patient ID:
 First Name:
 Last Name:
 Phone Number:
-D.O.B
+D.O.B:
 Full mailing address: 
 Email Address:
 Account status:
